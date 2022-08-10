@@ -1,9 +1,6 @@
-## Bonjour et bienvenue sur ma page de projets.
++## Welcome to GitHub Pages
 
-Celle-ci permet d'accéder aux différents sites webs que je réalise pour moi-même.
-Il me permet également de montrer ce dont je suis capable en tant que développeur web.
-
-Je vous souhaite donc une bonne découverte !
+You can use the [editor on GitHub](https://github.com/BaptisteJ24/Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
