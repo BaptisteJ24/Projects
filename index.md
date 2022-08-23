@@ -6,6 +6,6 @@ Cette page est amenée à évoluer, tout comme les sites évoqués plus bas.
 
 Je vous souhaite donc une bonne découverte !
 
-[CV en Ligne](https://BaptisteJ24.github.io/CV)
+[CV en Ligne](https://BaptisteJ24.github.io/CV) (en cours de développement...)
 
-[Site de Recettes](https://BaptisteJ24.github.io/Recettes)
+[Site de Recettes](https://BaptisteJ24.github.io/Recettes) (en cours de développement...)
